@@ -7,5 +7,6 @@ I felt that this would be good practice getting requests using beautiful soup an
 
 <b>Built with</b>
 - [Python]
+- [Beautiful Soup]
 ## How to use?
 Just run the file and you will get the most up to date information regarding Ngolo Kante's career.
